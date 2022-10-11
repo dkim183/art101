@@ -1,0 +1,39 @@
+
+body {
+  background-color: rgb(0, 0, 0);
+  max-width: 1000px;
+  margin: auto;
+  font-family: 'Silkscreen', cursive;
+}
+
+h1   {
+  color: RGB(0, 0, 0);
+}
+
+main {
+  background-color: rgb(117, 152, 255);
+  padding: 10px;
+  border: solid 5px white;
+}
+
+#callout {
+  background-color: #ffc1be;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+  font-color: black;
+}
+
+#selfie {
+  text-align: middle;
+}
+
+#my-portrait {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+}
